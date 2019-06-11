@@ -41,3 +41,5 @@ F) Ending with receives the SMS and the Email
 
 ## Alert! Email using mailGun API
 ![Hardware Setup](https://github.com/prachi-ag/Smart_refrigerator/blob/master/mailgun_email_Alert.jpeg)
+
+ThankYou!
