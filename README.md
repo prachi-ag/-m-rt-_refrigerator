@@ -28,9 +28,18 @@ F) Ending with receives the SMS and the Email
    MailGun Email API, Bolt Cloud API, Pyhon Library, Twilio API
 
 ### Connecting the LM35 to the bolt module
-1. VCC pin of the LM35 connects to 5v of the Bolt Wifi module.
-2. Output pin of the LM35 connects to A0 (Analog input pin) of the Bolt Wifi module.
-3.Gnd pin of the LM35 connects to the Gnd.
+1. VCC pin of the LM35 connects to 5v of the Bolt Wifi module.<br>
+2. Output pin of the LM35 connects to A0 (Analog input pin) of the Bolt Wifi module.<br>
+3.Gnd pin of the LM35 connects to the Gnd.<br>
+
+## The algorithm for the code can be broken down into the following steps:
+a) Fetch the latest sensor value from the Bolt device.<br>
+b) Store the sensor value in a list, that will be used for computing z-score.<br>
+c) Compute the z-score and upper and lower threshold bounds for normal and anomalous readings.<br>
+d) Check if the sensor reading is within the range for normal readings, then send email.<br>
+e) If it is not in range, send the SMS.<br>
+f) Wait for 10 seconds.<br>
+g) Repeat from step a.<br>
 
 ![Hardware Setup](https://github.com/prachi-ag/Smart_refrigerator/blob/master/moduleSetUp_bb.png)
 
