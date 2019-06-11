@@ -31,3 +31,13 @@ F) Ending with receives the SMS and the Email
 3.Gnd pin of the LM35 connects to the Gnd.
 
 ![Hardware Setup](https://github.com/prachi-ag/Smart_refrigerator/blob/master/moduleSetUp_bb.png)
+
+## Output of Prediction using Polynomial Regression
+![Hardware Setup](https://github.com/prachi-ag/Smart_refrigerator/blob/master/Screenshot%20(7).png)
+
+
+## Alert! Sms using Twilio API
+![Hardware Setup](https://github.com/prachi-ag/Smart_refrigerator/blob/master/twilio_Sms_Alert.jpeg)
+
+## Alert! Email using mailGun API
+![Hardware Setup](https://github.com/prachi-ag/Smart_refrigerator/blob/master/mailgun_email_Alert.jpeg)
