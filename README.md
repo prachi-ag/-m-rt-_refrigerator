@@ -29,3 +29,5 @@ F) Ending with receives the SMS and the Email
 1. VCC pin of the LM35 connects to 5v of the Bolt Wifi module.
 2. Output pin of the LM35 connects to A0 (Analog input pin) of the Bolt Wifi module.
 3.Gnd pin of the LM35 connects to the Gnd.
+
+![Hardware Setup](https://github.com/prachi-ag/Smart_refrigerator/blob/master/moduleSetUp_bb.png)
