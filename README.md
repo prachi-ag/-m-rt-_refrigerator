@@ -21,6 +21,8 @@ F) Ending with receives the SMS and the Email
 1) Bolt IoT module
 2) LM-35
 3) Jumper Wires(Male/Female)
+4) USB cable
+5) Breadboard(optional)
 
 ## API's used: 
    MailGun Email API, Bolt Cloud API, Pyhon Library, Twilio API
