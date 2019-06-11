@@ -1,3 +1,4 @@
+#use your respective field values
 SSID='AC83a0446a145d675b8b48d97941cae0a9'
 AUTH_TOKEN='5386c4dca0d6e0a69232ed6e9c95fe38'
 FROM_NUMBER="+17075952418"
