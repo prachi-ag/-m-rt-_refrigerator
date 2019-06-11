@@ -9,12 +9,12 @@ This is the capstone project to summarize all the learnings in the 3 modules of 
 
 ## Working principle
 
-A) Creation of an account and configuration for SMS on Twilio
-B) Creation of an acount and configuration for Email on Mailgun
-C) Login in your Oracle VM (VirtualBox) or in your digital ocean
-D) Code writing in python
-E) Runing code and view the output
-F) Ending with receives the SMS and the Email 
+A) Creation of an account and configuration for SMS on Twilio<br>
+B) Creation of an acount and configuration for Email on Mailgun<br>
+C) Login in your Oracle VM (VirtualBox) or in your digital ocean<br>
+D) Code writing in python<br>
+E) Runing code and view the output<br>
+F) Ending with receives the SMS and the Email <br>
 
 
 ### Components:
