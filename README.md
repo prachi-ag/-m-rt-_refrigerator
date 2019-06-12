@@ -13,7 +13,7 @@ A) Creation of an account and configuration for SMS on Twilio<br>
 B) Creation of an acount and configuration for Email on Mailgun<br>
 C) Login in your Oracle VM (VirtualBox) or in your digital ocean<br>
 D) Code writing in python<br>
-E) Runing code and view the output<br>
+E) Running code and view the output<br>
 F) Ending with receives the SMS and the Email <br>
 
 
@@ -25,7 +25,7 @@ F) Ending with receives the SMS and the Email <br>
 5) Breadboard(optional)
 
 ## API's used: 
-   MailGun Email API, Bolt Cloud API, Pyhon Library, Twilio API
+   MailGun Email API, Bolt Cloud API, Python Library, Twilio API
 
 ### Connecting the LM35 to the bolt module
 1. VCC pin of the LM35 connects to 5v of the Bolt Wifi module.<br>
