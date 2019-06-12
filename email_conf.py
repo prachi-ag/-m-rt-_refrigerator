@@ -1,10 +1,10 @@
 #use your respective field values
-MAILGUN_API_KEY = '71350f8f456b8ab626a22afde3271579-87cdd773-4cef6f18' 
-SANDBOXURL= 'sandboxd0e33a2d6d4342ee934d04231936e25a.mailgun.org' 
-SENDER_EMAIL = 'test@sandboxd0e33a2d6d4342ee934d04231936e25a.mailgun.org'
+MAILGUN_API_KEY = '########################################3' 
+SANDBOXURL= 'sandbox#########################.mailgun.org' 
+SENDER_EMAIL = 'test@sandbox###########################.mailgun.org'
 RECIPIENT_EMAIL = '201751034@iiitvadodara.ac.in'
 
-API_KEY="c5434250-5f81-4eb7-8da7-4c1c23e03331"
+API_KEY="###########################"
 DEVICE_ID="BOLT1115978"
 FRAME_SIZE=10
 MUL_FACTOR=6
