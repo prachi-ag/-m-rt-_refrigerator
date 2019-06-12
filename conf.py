@@ -1,10 +1,10 @@
 #use your respective field values
-SSID='AC83a0446a145d675b8b48d97941cae0a9'
-AUTH_TOKEN='5386c4dca0d6e0a69232ed6e9c95fe38'
+SSID='##########################'
+AUTH_TOKEN='###############'
 FROM_NUMBER="+17075952418"
 TO_NUMBER="+917355112215"
 
-API_KEY="c5434250-5f81-4eb7-8da7-4c1c23e03331"
+API_KEY="#####################"
 DEVICE_ID="BOLT1115978"
 FRAME_SIZE=10
 MUL_FACTOR=6
